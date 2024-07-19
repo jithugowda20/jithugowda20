@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jithesh
+- 👋 Hi, I’m jithesh
 - 👀 I’m interested in I’m interested in VLSI design, digital circuits, and Embedded C, focusing on driving innovation and improving electronic systems' performance and reliability.
 - 🌱 I’m currently learning Electronics and Communication Engineering
 
